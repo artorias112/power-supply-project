@@ -1,0 +1,12 @@
+Component,Description,Value,Quantity
+F1,Fuse,1 A,1
+T1,Transformer,115V to 12.6V,1
+D1-D6,Diode,1N4001,6
+C1,Capacitor,≥470 μF, min. 50 V,1
+C2,Capacitor,1 μF, min. 50 V,1
+C3,Capacitor,10 μF,1
+C4,Capacitor,1000 μF,1
+R1,Resistor,1 kΩ,1
+R2,Resistor,560 Ω,1
+R3,Variable Resistor,10 kΩ,1
+U1,Voltage Regulator,LM317,1
